@@ -1,0 +1,9 @@
+<super>
+lalalala allallla
+    <t1 days="5" />
+    <t2 days="1">
+        <ch-a days="2" />
+        <ch-b days="3" />
+        <ch-c days="4" />
+    </t2>
+</super>
